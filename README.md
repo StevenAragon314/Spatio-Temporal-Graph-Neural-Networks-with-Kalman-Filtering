@@ -1,4 +1,3 @@
-```markdown
 # Pronóstico Espacio-Temporal de Dengue en Costa Rica: De Modelos Estadísticos a Redes Neuronales sobre Grafos y Filtro de Kalman
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
